@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=close-on-hide
+IAge=2
+Name=Close on Hide
+Description=For Ubuntu, exit application really means exit
+Authors=fossfreedom <foss.freedom@gmail.com>
+Copyright=Copyright © 2014 fossfreedom
+Website=https://github.com/fossfreedom/close-on-hide
