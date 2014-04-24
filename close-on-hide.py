@@ -1,7 +1,6 @@
 # -*- Mode: python; coding: utf-8; tab-width: 4; indent-tabs-mode: nil; -*-
 #
-# Copyright (C) 2012 - fossfreedom
-# Copyright (C) 2012 - Agustin Carrasco
+# Copyright (C) 2014 - fossfreedom
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of thie GNU General Public License as published by
